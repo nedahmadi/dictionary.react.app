@@ -7,9 +7,10 @@ export default function App() {
       <div className="container">
         <header className="App-header">
           <img
-            src="https://clipartstation.com/wp-content/uploads/2017/11/dictionary-clipart.jpg"
+            src="http://www.clipartsuggest.com/images/41/dictionary-clip-art-ZcoGMG-clipart.jpg"
+            className="App-Logo"
             width="200"
-            alt="logo"
+            alt="pic"
           />
         </header>
         <main>

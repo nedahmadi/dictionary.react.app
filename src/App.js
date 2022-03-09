@@ -7,8 +7,7 @@ export default function App() {
       <div className="container">
         <header className="App-header">
           <img
-            src="https://www.kindpng.com/picc/m/156-1568989_transparent-dictionary-png-reading-and-writing-clip-art.png"
-            className="App-logo "
+            src="https://clipartstation.com/wp-content/uploads/2017/11/dictionary-clipart.jpg"
             width="200"
             alt="logo"
           />

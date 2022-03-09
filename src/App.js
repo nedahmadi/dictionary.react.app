@@ -7,7 +7,7 @@ export default function App() {
       <div className="container">
         <header className="App-header">
           <img
-            src="http://www.clipartsuggest.com/images/41/dictionary-clip-art-ZcoGMG-clipart.jpg"
+            src="https://findicons.com/files/icons/2595/leopard_graphite/512/dictionary.png"
             className="App-Logo"
             width="200"
             alt="pic"
